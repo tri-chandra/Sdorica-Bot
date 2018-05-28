@@ -1,3 +1,5 @@
-export default {
-  prefix: '.',
+const prefix = '.';
+
+export {
+  prefix,
 };

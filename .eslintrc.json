@@ -4,6 +4,9 @@
         "react/jsx-filename-extension": [1, { "extensions": [".js", ".jsx"] }]
     },
     "globals": {
-        "document": true
+        "document": true,
+        "window": true,
+        "URL": true,
+        "navigator": true
     }
 }
